@@ -113,4 +113,5 @@ body{
     text-align: right;
     color: black;
     border-radius: 5px;
+    overflow: hidden;
 }
